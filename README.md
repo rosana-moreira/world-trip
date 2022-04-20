@@ -2,7 +2,7 @@
 
 <h2>Descrição do Projeto</h2>
 <p align="center">
-Aplicação desenvolvida no Capítulo IV do Ignite React da Rocketseat - # Desafio 01 - Interface com Chakra UI</p>
+Aplicação desenvolvida no Capítulo IV do Ignite React da Rocketseat - Desafio 01 - Interface com Chakra UI</p>
 
 <h1 align="center"></h1>
 
